@@ -10,8 +10,6 @@ put `input.mp4` in the directory
 (ffmpeg is required)
 
 ```bash
-
-```bash
 sh extract_images.sh
 ```
 
